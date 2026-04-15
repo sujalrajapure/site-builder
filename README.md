@@ -142,7 +142,7 @@ cd client
 npm run dev     # http://localhost:5173
 ```
 
-**Access**: http://localhost:5173
+**Access**: Will Update Soon
 
 ## 🔌 API Endpoints
 | Method | Endpoint | Description |
@@ -182,14 +182,6 @@ site-builder/
 | `STRIPE_SECRET_KEY` | Stripe payments | Yes (prod) |
 | `STRIPE_WEBHOOK_SECRET` | Stripe webhooks | Yes (prod) |
 | `TRUSTED_ORIGINS` | CORS allowed origins | No |
-
-## 🚧 TODO (Current Progress)
-See [TODO.md](./TODO.md) for ongoing tasks like error handling improvements.
-
-## 🤝 Contributing
-1. Fork & PR
-2. Follow TypeScript/ESLint rules
-3. Update tests if adding features
 
 ## 📄 License
 ISC
